@@ -1,4 +1,4 @@
-# Cross region repolication for Cache example 
+# Cross region replication for Cache example 
 
 ## Abstraction 
 
@@ -44,6 +44,5 @@ Proxy gets data from Relay, and then put the data to local memcached.
 ## Future works 
 
 We'd like to put databases, and put more resiliency and scalablity with ELBs, and other parts of Spring Clouds. 
-
-
 Thanks! 
+
